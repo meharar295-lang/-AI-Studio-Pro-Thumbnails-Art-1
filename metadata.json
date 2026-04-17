@@ -1,0 +1,8 @@
+{
+  "name": "AI Studio Pro: Thumbnails & Art",
+  "description": "Professional AI content creation studio. Generate high-conversion YouTube thumbnails, cinematic cartoon art, and premium social media content using Gemini 3 Pro and Flash technology.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
